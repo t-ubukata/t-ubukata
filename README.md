@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tomohiro Ubukata.
-- 👀 I’m interested in C++, Python, Machine Learning.
+- 👀 I’m interested in C++, Python, CUDA, Machine Learning.
 - 🌱 I’m currently learning [Thrust](https://thrust.github.io/).
 - 📫 How to reach me: [email](tomohiro.ubukata@gmail.com).
 - 🌟 Please check [cudnnxx](https://github.com/t-ubukata/cudnnxx). Any feedback would be greatly appreciated.
