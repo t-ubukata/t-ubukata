@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tomohiro Ubukata.
-- 👀 I’m interested in C++, Java, C#, Python, TypeScript, TensorFlow, CUDA, Machine Learning.
+- 👀 I’m interested in C, C++, Java, C#, Python, TypeScript, TensorFlow, CUDA, Machine Learning.
 - 🌱 I’m currently learning [Thrust](https://thrust.github.io/).
 - 🌟 Please check [cudnnxx](https://github.com/t-ubukata/cudnnxx). Any feedback would be greatly appreciated.
 <!---
